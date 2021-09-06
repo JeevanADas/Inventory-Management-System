@@ -5,7 +5,8 @@ We can perform tasks like adding new products, displaying the products available
 
 Created loops for adding and purchasing one or more products at the same time.
 
-Made a "record.json" file to store the data (product id, name, price, quantity) of all the produts avalable in the inventory. \n
+Made a "record.json" file to store the data (product id, name, price, quantity) of all the produts avalable in the inventory.
+
 Made a "sales.json" file to store the data (sl. number, product id, quantity, time of purchase) of the purchase made.
 
 ## Libraries used: 
